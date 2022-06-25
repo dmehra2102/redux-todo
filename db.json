@@ -1,0 +1,24 @@
+{
+  "todolist": [
+    {
+      "id": "f5e37a07-e14e-42b2-b4eb-42a88bb80a05",
+      "title": "Learn Java",
+      "status": "Not Completed"
+    },
+    {
+      "id": "bfaaa268-0173-4140-a1fd-eccb0f7380ce",
+      "title": "Learn C++",
+      "status": "Not Completed"
+    },
+    {
+      "id": "8668a802-68be-4689-b868-f8d1c2e647bd",
+      "title": "Learn Javascript",
+      "status": "Not Completed"
+    },
+    {
+      "id": "1dd23406-af65-427e-adda-7c90f6c85659",
+      "title": "Learn Redux",
+      "status": "Not Completed"
+    }
+  ]
+}
